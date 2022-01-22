@@ -28,5 +28,5 @@ Analysis of Spotify streaming history with python.
     i.e SongInfoWithId.csv and SongFeatures.csv
 
 ### ExploratoryDataAnalysis.ipynb
-    Python notebook which analysis the song data in the csv file "SpotifySongs.csv".
+    Python notebook which analyzes the song data in the csv file "SpotifySongs.csv".
     
